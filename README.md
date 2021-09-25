@@ -24,4 +24,4 @@ TL;DR for developer documentation - a ridiculous collection of cheatsheets
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for developer notes.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rstacruz/cheatsheets)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/woody88/cheatsheets)
