@@ -1,10 +1,10 @@
 home:
-  title: "Rico's cheatsheets"
+  title: "Woody's cheatsheets"
   tagline: |
-    Hey! I'm <a href='https://ricostacruz.com'>@rstacruz</a> and this is a modest collection of cheatsheets I've written.
+    Hey! I'm Woody and this is a collection of my cheatsheets and <a href='https://github.com/rstacruz'>@rstacruz</a>.
 
 top_nav:
-  title: Devhints.io
+  title: woody88.github.io/cheatsheets
   edit: Edit
   edit_on_github: Edit this page on GitHub
 
@@ -19,7 +19,7 @@ social_list:
 
 related_posts_callout:
   description: Over SIZE curated cheatsheets, by developers for developers.
-  link: Devhints home
+  link: woody88.github.io/cheatsheets home
 
 related_posts_group:
   top: Top cheatsheets
@@ -29,7 +29,7 @@ related_posts_group:
 search_form:
   default_placeholder: Search SIZE+ cheatsheets
   home_placeholder: Search...
-  prefix: devhints.io
+  prefix: woody88.github.io/cheatsheets
 
 comments_area:
   suffix: for this cheatsheet.
@@ -40,11 +40,11 @@ not_found:
   description: Sorry, we don't have a cheatsheet for this yet. Try searching!
   home: Back to home
 
-announcement:
-  id: 2017-10-26-twitter
-  title: |
-    New: We're on Twitter ♥️
-  body: |
-    Follow [@devhints](https://twitter.com/devhints) on Twitter for daily "today I learned" snippets!
+# announcement:
+#   id: 2017-10-26-twitter
+#   title: |
+#     New: We're on Twitter ♥️
+#   body: |
+#     Follow [@devhints](https://twitter.com/devhints) on Twitter for daily "today I learned" snippets!
 
-    [![](https://img.shields.io/twitter/follow/devhints.svg?style=social&label=@devhints)](https://twitter.com/devhints)
+#     [![](https://img.shields.io/twitter/follow/devhints.svg?style=social&label=@devhints)](https://twitter.com/devhints)
