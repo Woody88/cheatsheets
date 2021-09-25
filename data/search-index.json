@@ -1089,6 +1089,17 @@
   "tags": null,
   "updated": null
 },{
+  "id": "functional-domain-modeling",
+  "title": "Functional Domain Modeling",
+  "url": "/functional-domain-modeling",
+  "category": "Domain Driven Design",
+  "keywords": null,
+  "content_html": "<h3 id=\"what-is-an-algebra\">What is an Algebra?</h3>\n\n<p>Algebra is the study of algebraic structures.</p>\n\n<p>An Algebraic structure is a <strong>set</strong> (called <em>carrier set</em> or <em>underlying set</em>)\nwith one or more finite operations defined on it which statisfies a list of rules/laws.</p>\n\n<p>In the context of domain modeling a <strong>set</strong> will be a set of data types.</p>\n\n<h3 id=\"algebras-characteristic\">Algebras Characteristic</h3>\n\n<p>For every algebra we have:</p>\n\n<ul>\n  <li>A carrier type of the algebra</li>\n  <li>Introductions Forms</li>\n  <li>Combinators</li>\n  <li>Elminators Forms</li>\n  <li>Laws</li>\n</ul>\n\n<h3 id=\"algebraic-thinking\">Algebraic Thinking</h3>\n\n<ul>\n  <li>Algebra scales from that of one single data type to an entire bounded context</li>\n  <li>Algebras compose enabling composition of domain behaviours</li>\n  <li>Algebras let you focus on the compositionality without any context of implementation</li>\n  <li>Statically typed functional programming is programming with algebras</li>\n</ul>\n\n<h3 id=\"denotation-semantics\">Denotation Semantics</h3>\n\n<p>Takeaways:</p>\n\n<ul>\n  <li>Our thought process should independent of the implementation. Understanding programs through independent implementation semantics tends to be more intuitive in understanding a program</li>\n  <li>When thinking in terms of implementation, exact mode of execution, it because difficult to keep the entire concept in mind. However, thinking in terms of the operation, algebra, rules, makes it easier</li>\n  <li>Detonational thinking leads to Alegbraic Thinking</li>\n</ul>\n\n<h2 id=\"references\">References</h2>\n\n<ul>\n  <li><a href=\"https://en.wikipedia.org/wiki/Algebraic_structure\">Algebraic Structure</a> <em>(wikipedia.org)</em></li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Denotational_semantics\">Denotational Semantics</a> <em>(wikipedia.org)</em></li>\n</ul>",
+  "intro_html": "",
+  "description_html": "",
+  "tags": null,
+  "updated": null
+},{
   "id": "fitness/general",
   "title": "General fitness notes",
   "url": "/fitness/general",
