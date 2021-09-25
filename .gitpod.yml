@@ -12,4 +12,4 @@ github:
   # Prebuild the docker image for gitpod - https://www.gitpod.io/docs/prebuilds/
   prebuilds:
     # enable for the master/default branch
-    master: true
+    main: true
